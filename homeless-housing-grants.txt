@@ -1,0 +1,17 @@
+Homeless Housing Grants
+======================
+
+1. HUD Continuum of Care (CoC) Program
+   - Description: Federal funding for nonprofits providing transitional and rapid rehousing for homeless individuals and families.
+   - Eligibility: Nonprofit organizations, state and local governments, and public housing agencies.
+   - Link: https://www.hud.gov/program_offices/comm_planning/coc
+
+2. California HCD Homeless Programs
+   - Description: State grants for homeless housing and services in California.
+   - Eligibility: Nonprofits, local governments, and housing authorities in California.
+   - Link: https://www.hcd.ca.gov/grants-and-funding
+
+3. Emergency Solutions Grants (ESG) Program
+   - Description: Federal grants to support emergency shelter, homelessness prevention, and rapid rehousing.
+   - Eligibility: State and local governments, nonprofits.
+   - Link: https://www.hudexchange.info/programs/esg/
