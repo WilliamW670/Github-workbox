@@ -1,17 +1,107 @@
-Church Support Grants
-====================
+Church Support Grants (Comprehensive Guide)
+===========================================
 
 1. Lilly Endowment Religion Grants
-   - Description: Grants for strengthening congregations and supporting faith-based initiatives.
-   - Eligibility: Faith-based organizations, churches, and religious institutions.
-   - Link: https://lillyendowment.org/for-grantseekers/religion/
+----------------------------------
+- **Administering Agency:** Lilly Endowment Inc.
+- **What it Offers:** Large grants for congregational vitality, leadership development, youth ministry, and community engagement. Programs include Thriving Congregations, Clergy Renewal, and more.
+- **Eligibility:** Christian congregations and related organizations (primarily U.S.-based, 501(c)(3) status required).
+- **How to Apply:**
+  1. Review open programs at [Lilly Endowment Religion Grants](https://lillyendowment.org/for-grantseekers/religion/).
+  2. Download guidelines and application forms for the relevant program.
+  3. Prepare a detailed proposal, budget, and supporting documents.
+  4. Submit via the online portal or by mail, as specified.
+- **Deadlines:** Varies by program (multiple cycles per year).
+- **Contact:** religion@lei.org
+- **Notes:** Highly competitive. Focus on innovation, sustainability, and measurable impact.
 
 2. Mustard Seed Foundation Grants
-   - Description: Small grants for faith-based outreach and community projects.
-   - Eligibility: Christian organizations and churches worldwide.
-   - Link: https://msfdn.org/grants/
+---------------------------------
+- **Administering Agency:** Mustard Seed Foundation
+- **What it Offers:** Small grants for faith-based outreach, evangelism, and community service projects.
+- **Eligibility:** Christian organizations and churches worldwide. Must align with foundation’s statement of faith.
+- **How to Apply:**
+  1. Review guidelines at [Mustard Seed Foundation Grants](https://msfdn.org/grants/).
+  2. Submit an online inquiry or application.
+  3. Provide project description, budget, and church/leadership references.
+- **Deadlines:** Rolling, reviewed quarterly.
+- **Contact:** info@msfdn.org
+- **Notes:** Preference for projects with local leadership and matching support.
 
-3. The Carpenter Foundation
-   - Description: Grants for faith-based organizations supporting community development and social services.
-   - Eligibility: Faith-based nonprofits and churches (primarily in Oregon, but some national reach).
-   - Link: https://www.thecarpenterfoundation.org/
+3. Versacare Foundation Grants
+------------------------------
+- **Administering Agency:** Versacare, Inc.
+- **What it Offers:** Grants for Seventh-day Adventist ministries and select humanitarian efforts. Three levels: Catalyst ($2,500–$10,000), Venture ($10,001–$40,000), Impact ($40,001+).
+- **Eligibility:** Adventist-affiliated organizations, schools, and churches. Must have 501(c)(3) status and 2+ years of operation.
+- **How to Apply:**
+  1. Review [Versacare Grant Guidelines](https://versacare.org/grants/).
+  2. Submit an online application with project details and budget.
+  3. Applications reviewed quarterly.
+- **Deadlines:** Rolling, with quarterly reviews.
+- **Contact:** info@versacare.org
+- **Notes:** Focus on education, health, community engagement, and youth.
+
+4. Walmart Spark Good Local Grants
+----------------------------------
+- **Administering Agency:** Walmart Foundation
+- **What it Offers:** $250–$5,000 grants for community projects, food pantries, outreach, and facility improvements.
+- **Eligibility:** Churches and nonprofits with a Spark Good account, verified by Deed. Project must benefit the broader community.
+- **How to Apply:**
+  1. Register your church/nonprofit at [Walmart Spark Good](https://walmart.org/spark-good).
+  2. Complete verification and submit a project proposal.
+  3. Select your local Walmart store for review.
+- **Deadlines:** Four cycles per year (see website for current dates).
+- **Contact:** Through Spark Good portal.
+- **Notes:** Emphasize community impact and partnerships.
+
+5. National Fund for Sacred Places
+----------------------------------
+- **Administering Agency:** Partners for Sacred Places & National Trust for Historic Preservation
+- **What it Offers:** $50,000–$500,000 grants for historic church building repairs, preservation, and capital improvements.
+- **Eligibility:** Historic congregations of all denominations (must be listed or eligible for National Register of Historic Places).
+- **How to Apply:**
+  1. Review guidelines at [Fund for Sacred Places](https://fundforsacredplaces.org/).
+  2. Submit a letter of intent (LOI) during the open cycle.
+  3. If invited, submit a full application with project plans and budget.
+- **Deadlines:** Annual, typically spring/summer.
+- **Contact:** info@fundforsacredplaces.org
+- **Notes:** Requires matching funds. Focus on community use and impact.
+
+6. Denominational and Regional Grants
+-------------------------------------
+- **Administering Agency:** Denominational headquarters (e.g., United Methodist, Presbyterian, Episcopal, Lutheran, Baptist)
+- **What it Offers:** Grants for church planting, outreach, youth ministry, building repairs, and leadership development.
+- **Eligibility:** Member churches in good standing. Requirements vary by denomination.
+- **How to Apply:**
+  1. Check your denomination’s website or contact your regional office for open opportunities.
+  2. Prepare a proposal per denominational guidelines.
+  3. Submit to the appropriate office or online portal.
+- **Deadlines:** Varies by denomination and program.
+- **Contact:** Denominational headquarters or regional office.
+- **Notes:** Often less competitive than national grants. Good for pilot projects and capacity building.
+
+7. Local Community Foundations and United Way
+---------------------------------------------
+- **Administering Agency:** Local foundations and United Way chapters
+- **What it Offers:** Grants for community service, outreach, and facility improvements.
+- **Eligibility:** Churches and faith-based nonprofits.
+- **How to Apply:**
+  1. Search local foundation and United Way websites for open RFPs.
+  2. Submit application, budget, and project description.
+- **Deadlines:** Varies by funder.
+- **Contact:** Local foundation or United Way office.
+- **Notes:** Emphasize local impact and partnerships.
+
+---
+
+**Tips for Success:**
+- Maintain 501(c)(3) status and good standing with your denomination.
+- Prepare clear, measurable project goals and budgets.
+- Gather letters of support from community partners.
+- Attend grant writing workshops and webinars.
+- Track deadlines and submit early.
+
+**For more:**
+- [Instrumentl: Grants for Churches](https://www.instrumentl.com/browse-grants/grants-for-churches)
+- [Zeffy: Church Grant Finder](https://www.zeffy.com/grants/churches)
+- [GrantBoost: Church Grant Guide](https://www.grantboost.io/blog/grants-for-churches/)

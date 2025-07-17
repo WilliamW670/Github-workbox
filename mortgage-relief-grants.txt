@@ -1,0 +1,80 @@
+Mortgage Relief Grants (Comprehensive Guide)
+============================================
+
+1. Homeowner Assistance Fund (HAF)
+----------------------------------
+- **Administering Agency:** U.S. Department of the Treasury (distributed to states)
+- **What it Offers:** Up to $80,000 in direct payments for mortgage arrears, property taxes, insurance, and utilities for homeowners facing COVID-19-related hardship.
+- **Eligibility:** Homeowners with income ≤150% of area median, COVID-19 hardship, and primary residence. Must be behind on mortgage or property taxes.
+- **How to Apply:**
+  1. Find your state’s HAF program (see [NCSHA HAF Directory](https://www.ncsha.org/homeowner-assistance-fund/)).
+  2. Complete online application with proof of income, hardship, and mortgage statements.
+  3. Submit required documents (ID, pay stubs, tax returns, mortgage statements, utility bills).
+- **Deadlines:** Rolling, until funds are exhausted (apply ASAP).
+- **Contact:** State HAF program (see directory above).
+- **Notes:** Funds are limited and first-come, first-served. No repayment required.
+
+2. California Mortgage Relief Program
+-------------------------------------
+- **Administering Agency:** California Housing Finance Agency (CalHFA)
+- **What it Offers:** Up to $80,000 in grants to cover missed mortgage payments, property taxes, and partial claim second mortgages for COVID-19-impacted homeowners.
+- **Eligibility:** California homeowners, income ≤150% of area median, COVID-19 hardship, behind on mortgage or property taxes, primary residence, not a jumbo loan.
+- **How to Apply:**
+  1. Visit [camortgagerelief.org](https://camortgagerelief.org/).
+  2. Complete eligibility screener and online application.
+  3. Upload required documents (ID, income, mortgage statements, proof of hardship).
+- **Deadlines:** Rolling, until funds are exhausted (apply ASAP).
+- **Contact:** (888) 840-2594, info@camortgagerelief.org
+- **Notes:** No repayment required. Assistance is a grant, not a loan.
+
+3. FHA/VA/USDA Forbearance and Loan Modification
+-----------------------------------------------
+- **Administering Agency:** U.S. Department of Housing and Urban Development (HUD), VA, USDA
+- **What it Offers:** Temporary suspension or reduction of mortgage payments (forbearance), loan modification, and partial claim options for federally-backed loans.
+- **Eligibility:** Homeowners with FHA, VA, or USDA loans facing financial hardship (COVID-19 or other).
+- **How to Apply:**
+  1. Contact your loan servicer (the company you pay your mortgage to).
+  2. Request forbearance or loan modification due to hardship.
+  3. Provide documentation as requested (income, hardship letter, etc.).
+- **Deadlines:** Ongoing, but act quickly if you are behind or at risk.
+- **Contact:** Your loan servicer, or HUD-approved housing counselor (800-569-4287).
+- **Notes:** Forbearance is not forgiveness; repayment plans or modifications follow. No fees for applying.
+
+4. Local and Nonprofit Mortgage Relief Programs
+-----------------------------------------------
+- **Administering Agency:** City/county housing agencies, United Way, local nonprofits
+- **What it Offers:** Emergency grants or loans for mortgage, rent, or utility arrears due to hardship (disaster, job loss, illness, etc.).
+- **Eligibility:** Varies by program; typically low-to-moderate income, proof of hardship, primary residence.
+- **How to Apply:**
+  1. Search your city/county housing department or United Way for local programs.
+  2. Complete application with proof of hardship and income.
+  3. Submit required documents (ID, mortgage statement, proof of hardship).
+- **Deadlines:** Varies; many are rolling or open until funds are exhausted.
+- **Contact:** Local housing agency, United Way 211, or nonprofit provider.
+- **Notes:** Some programs offer grants, others offer zero-interest loans. Check for current availability.
+
+5. Disaster Mortgage Relief (FEMA, State Disaster Programs)
+----------------------------------------------------------
+- **Administering Agency:** FEMA, state emergency management, local agencies
+- **What it Offers:** Temporary mortgage payment assistance for homeowners affected by federally declared disasters (fire, flood, etc.).
+- **Eligibility:** Homeowners in disaster-declared areas with property damage or loss of income.
+- **How to Apply:**
+  1. Register with FEMA at [disasterassistance.gov](https://www.disasterassistance.gov/).
+  2. Contact your loan servicer for disaster forbearance or relief options.
+  3. Apply for state/local disaster relief as available.
+- **Deadlines:** Varies by disaster; apply as soon as possible after event.
+- **Contact:** FEMA Helpline: 800-621-3362
+- **Notes:** Assistance may include grants, forbearance, or low-interest loans.
+
+---
+
+**Tips for Success:**
+- Apply as soon as you experience hardship; funds are limited.
+- Gather all required documents before starting your application.
+- Contact a HUD-approved housing counselor for free help (800-569-4287).
+- Beware of scams—never pay for mortgage relief help.
+
+**For more:**
+- [HUD: Avoiding Foreclosure](https://www.hud.gov/topics/avoiding_foreclosure)
+- [NerdWallet: Mortgage Relief Guide](https://www.nerdwallet.com/article/mortgages/homeowner-assistance-fund-how-to-apply-haf)
+- [California Mortgage Relief](https://camortgagerelief.org/)

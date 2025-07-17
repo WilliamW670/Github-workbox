@@ -1,0 +1,77 @@
+Medical Transportation Grants (Comprehensive Guide)
+===================================================
+
+1. Medicaid Non-Emergency Medical Transportation (NEMT)
+------------------------------------------------------
+- **Administering Agency:** State Medicaid agencies (funded by CMS)
+- **What it Offers:** Reimbursement for transportation services (ambulatory, wheelchair, stretcher, etc.) for eligible Medicaid recipients to and from medical appointments.
+- **Eligibility:** Licensed NEMT providers, transportation companies, and sometimes individuals. Must meet state requirements (insurance, driver background checks, vehicle standards).
+- **How to Apply:**
+  1. Register as a Medicaid NEMT provider with your state Medicaid agency.
+  2. Complete required training, background checks, and vehicle inspections.
+  3. Submit claims for eligible trips via state Medicaid billing system.
+- **Deadlines:** Ongoing; must maintain compliance and renew credentials as required.
+- **Contact:** State Medicaid office (see [Medicaid.gov](https://www.medicaid.gov/medicaid/benefits/non-emergency-medical-transportation/index.html))
+- **Notes:** Rates and requirements vary by state. Some states use brokers (e.g., LogistiCare, MTM).
+
+2. FTA Section 5310: Enhanced Mobility of Seniors and Individuals with Disabilities
+----------------------------------------------------------------------------------
+- **Administering Agency:** Federal Transit Administration (FTA), distributed to states and localities
+- **What it Offers:** Grants for vehicles, equipment, and operations to improve mobility for seniors and people with disabilities.
+- **Eligibility:** Nonprofits, local governments, transit agencies, and tribal organizations.
+- **How to Apply:**
+  1. Contact your state DOT or local MPO for open Section 5310 opportunities.
+  2. Prepare a project proposal (vehicle purchase, service expansion, etc.).
+  3. Submit application with budget, project plan, and compliance documents.
+- **Deadlines:** Annual or biannual; check with your state/local agency.
+- **Contact:** State DOT or local MPO (see [FTA 5310 Contacts](https://www.transit.dot.gov/funding/grants/enhanced-mobility-seniors-individuals-disabilities-section-5310))
+- **Notes:** 80% federal/20% local match for capital; 50/50 for operations.
+
+3. FTA ICAM (Innovative Coordinated Access and Mobility) Grants
+--------------------------------------------------------------
+- **Administering Agency:** Federal Transit Administration (FTA)
+- **What it Offers:** $100,000–$300,000 grants for innovative projects improving access to healthcare through coordinated transportation (technology, partnerships, service integration).
+- **Eligibility:** Public transit agencies, nonprofits, state/local governments, tribal organizations.
+- **How to Apply:**
+  1. Monitor [FTA ICAM Grants](https://www.transit.dot.gov/funding/grants/grant-programs/icam) for open NOFOs.
+  2. Submit application via Grants.gov with detailed project plan and budget.
+- **Deadlines:** Annual; check FTA website for current cycle.
+- **Contact:** FTA program office.
+- **Notes:** Focus on coordination, technology, and underserved populations.
+
+4. State and Local Medical Transportation Grants
+-----------------------------------------------
+- **Administering Agency:** State DOTs, health departments, local agencies
+- **What it Offers:** Grants for vehicle purchase, service expansion, and operations for NEMT and paratransit providers.
+- **Eligibility:** Nonprofits, local governments, transportation companies.
+- **How to Apply:**
+  1. Search your state DOT or health department for open transportation grant programs.
+  2. Prepare application with project description, budget, and compliance documents.
+- **Deadlines:** Varies by program; often annual or rolling.
+- **Contact:** State DOT, health department, or local agency.
+- **Notes:** Some programs require local match or partnerships with healthcare providers.
+
+5. Private Foundation and Nonprofit Grants (e.g., United Way, PAN Foundation)
+-----------------------------------------------------------------------------
+- **Administering Agency:** United Way, PAN Foundation, local community foundations
+- **What it Offers:** Grants for transportation assistance for low-income, elderly, or disabled individuals to access medical care.
+- **Eligibility:** Nonprofits, community organizations, sometimes individuals.
+- **How to Apply:**
+  1. Search local United Way, PAN Foundation ([panfoundation.org](https://www.panfoundation.org/nemt-directory/)), or community foundation for open opportunities.
+  2. Submit application with project description and budget.
+- **Deadlines:** Varies by funder; many are rolling.
+- **Contact:** Local United Way, PAN Foundation, or community foundation.
+- **Notes:** Some programs provide direct assistance to individuals; others fund organizations.
+
+---
+
+**Tips for Success:**
+- Maintain all required licenses, insurance, and compliance for NEMT operations.
+- Build partnerships with healthcare providers and local agencies.
+- Track deadlines and submit complete, well-documented applications.
+- Use data to demonstrate community need and impact.
+
+**For more:**
+- [NEMT Entrepreneur: NEMT Funding Guide](https://www.nemtrepreneur.com/blog/guide-government-funding-and-grants-for-nemt-providers)
+- [FTA Section 5310](https://www.transit.dot.gov/funding/grants/enhanced-mobility-seniors-individuals-disabilities-section-5310)
+- [PAN Foundation NEMT Directory](https://www.panfoundation.org/nemt-directory/)

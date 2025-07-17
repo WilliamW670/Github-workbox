@@ -1,17 +1,118 @@
-Homeless Housing Grants
-======================
+Homeless Housing Grants (Comprehensive Guide)
+=============================================
 
 1. HUD Continuum of Care (CoC) Program
-   - Description: Federal funding for nonprofits providing transitional and rapid rehousing for homeless individuals and families.
-   - Eligibility: Nonprofit organizations, state and local governments, and public housing agencies.
-   - Link: https://www.hud.gov/program_offices/comm_planning/coc
+--------------------------------------
+- **Administering Agency:** U.S. Department of Housing and Urban Development (HUD)
+- **What it Offers:** Annual competitive grants for permanent supportive housing, rapid rehousing, transitional housing, coordinated entry, and supportive services for homeless individuals and families.
+- **Eligibility:** Nonprofits, state/local governments, public housing agencies, tribal organizations, and CoC lead agencies. Must participate in local CoC planning and coordinated entry.
+- **How to Apply:**
+  1. Join your local CoC (see HUD Exchange for contacts).
+  2. Respond to the annual HUD CoC NOFO (Notice of Funding Opportunity) via e-snaps portal.
+  3. Submit project application, budget, and required attachments.
+  4. Local CoC ranks and submits projects to HUD.
+- **Deadlines:** Annual, typically summer/fall. Check [HUD Exchange](https://www.hudexchange.info/programs/coc/) for current NOFO.
+- **Contact:** Local CoC lead (see HUD Exchange), or HUD Field Office.
+- **Notes:** Highly competitive. Projects must be Housing First compliant. Match funding often required.
 
-2. California HCD Homeless Programs
-   - Description: State grants for homeless housing and services in California.
-   - Eligibility: Nonprofits, local governments, and housing authorities in California.
-   - Link: https://www.hcd.ca.gov/grants-and-funding
+2. Emergency Solutions Grants (ESG) Program
+-------------------------------------------
+- **Administering Agency:** HUD (distributed to states, large cities, and counties)
+- **What it Offers:** Formula grants for street outreach, emergency shelter, homelessness prevention, rapid rehousing, and HMIS.
+- **Eligibility:** Nonprofits, local governments. Must apply through local ESG recipient (city/county/state).
+- **How to Apply:**
+  1. Contact your local ESG administrator (city/county/state housing department).
+  2. Respond to local RFP or application process.
+  3. Submit project proposal, budget, and compliance documents.
+- **Deadlines:** Varies by locality. Check with local ESG administrator.
+- **Contact:** Local city/county housing department or state HCD.
+- **Notes:** Requires 100% match (cash or in-kind). Focus on rapid rehousing and prevention.
 
-3. Emergency Solutions Grants (ESG) Program
-   - Description: Federal grants to support emergency shelter, homelessness prevention, and rapid rehousing.
-   - Eligibility: State and local governments, nonprofits.
-   - Link: https://www.hudexchange.info/programs/esg/
+3. California Homeless Housing, Assistance and Prevention (HHAP) Program
+-----------------------------------------------------------------------
+- **Administering Agency:** CA Department of Housing and Community Development (HCD)
+- **What it Offers:** Large-scale grants to CoCs, counties, and large cities for regional homeless action plans, permanent housing, interim housing, and supportive services.
+- **Eligibility:** California CoCs, counties, and cities (300,000+ population). Must participate in regional action plan.
+- **How to Apply:**
+  1. Coordinate with your region’s CoC or county/city government.
+  2. Develop or join a Regionally Coordinated Homelessness Action Plan.
+  3. Submit application via HCD’s online portal.
+  4. Provide detailed project plans, budgets, and compliance with Housing First.
+- **Deadlines:** Annual/biannual. See [CA Grants Portal](https://www.grants.ca.gov/grants/homeless-housing-assistance-and-prevention-program-round-5/) for current round.
+- **Contact:** hpdhomelessnessgrants@hcd.ca.gov, (916) 490-9589
+- **Notes:** No match required. Must demonstrate regional collaboration and equity focus.
+
+4. VA Supportive Services for Veteran Families (SSVF)
+-----------------------------------------------------
+- **Administering Agency:** U.S. Department of Veterans Affairs
+- **What it Offers:** Grants to nonprofits for rapid rehousing, homelessness prevention, and supportive services for very low-income veteran families.
+- **Eligibility:** Nonprofits with experience serving veterans and homeless populations.
+- **How to Apply:**
+  1. Respond to annual SSVF NOFA (Notice of Funding Availability) on [VA SSVF site](https://www.va.gov/homeless/ssvf/index.asp).
+  2. Submit application, program design, and budget.
+- **Deadlines:** Annual, typically winter/spring.
+- **Contact:** ssvf@va.gov
+- **Notes:** Must serve very low-income veterans. Strong focus on rapid rehousing and housing stability.
+
+5. California HCD Homeless Programs (Multiple)
+----------------------------------------------
+- **Administering Agency:** CA Department of Housing and Community Development
+- **What it Offers:** Multiple programs (e.g., Homekey, No Place Like Home, CalWORKs Housing Support) for capital, operations, and services.
+- **Eligibility:** Nonprofits, local governments, housing authorities.
+- **How to Apply:**
+  1. Monitor [HCD Grants & Funding](https://www.hcd.ca.gov/grants-and-funding) for open NOFAs.
+  2. Submit application per program guidelines.
+- **Deadlines:** Varies by program.
+- **Contact:** See HCD website for program contacts.
+- **Notes:** Some programs require match or local government partnership.
+
+6. United Way/Local Foundation Grants
+-------------------------------------
+- **Administering Agency:** United Way, local community foundations
+- **What it Offers:** Project and operating grants for homeless services, prevention, and housing.
+- **Eligibility:** Nonprofits, faith-based organizations.
+- **How to Apply:**
+  1. Check local United Way or foundation website for RFPs.
+  2. Submit application, budget, and impact statement.
+- **Deadlines:** Varies by funder.
+- **Contact:** Local United Way or foundation office.
+- **Notes:** Often less competitive than federal grants. Good for pilot projects.
+
+7. Major City/County Homeless Grants (e.g., LAHSA, SF HSH)
+----------------------------------------------------------
+- **Administering Agency:** Local city/county homeless agencies (e.g., LAHSA, SF Department of Homelessness)
+- **What it Offers:** Local funding for shelter, rapid rehousing, prevention, and supportive housing.
+- **Eligibility:** Nonprofits, service providers.
+- **How to Apply:**
+  1. Register as a vendor/provider with local agency.
+  2. Respond to RFPs or NOFAs.
+  3. Submit detailed project proposal and budget.
+- **Deadlines:** Varies by agency.
+- **Contact:** Local agency website (e.g., [LAHSA](https://www.lahsa.org/funding), [SF HSH](https://hsh.sfgov.org/)).
+- **Notes:** Local priorities may differ from federal/state. Often requires local partnerships.
+
+8. SAMHSA Grants for Homeless Services
+--------------------------------------
+- **Administering Agency:** Substance Abuse and Mental Health Services Administration (SAMHSA)
+- **What it Offers:** Grants for mental health, substance use, and supportive housing for homeless populations.
+- **Eligibility:** Nonprofits, public agencies, tribal organizations.
+- **How to Apply:**
+  1. Monitor [SAMHSA Grants](https://www.samhsa.gov/grants) for open opportunities.
+  2. Submit application via Grants.gov.
+- **Deadlines:** Varies by program.
+- **Contact:** SAMHSA grants office.
+- **Notes:** Focus on integrated care and housing stability.
+
+---
+
+**Tips for Success:**
+- Build partnerships with local governments, CoCs, and service providers.
+- Demonstrate Housing First, equity, and data-driven approaches.
+- Prepare all required documentation (501(c)(3), audits, budgets, program design).
+- Attend funder webinars and technical assistance sessions.
+- Track deadlines and submit early.
+
+**For more:**
+- [HUD Exchange: Homeless Assistance](https://www.hudexchange.info/homelessness-assistance/)
+- [CA HCD Homeless Programs](https://www.hcd.ca.gov/grants-and-funding)
+- [Grants.gov](https://www.grants.gov/)
